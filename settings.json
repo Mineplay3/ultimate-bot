@@ -1,0 +1,12 @@
+{
+    "token": "Put discord token, get it in https://discord.dev/",
+    "status": {
+        "enabled": true,
+        "type": "online/",
+        "activity": "playing",
+        "message": "Check ReadMe.md for Instructions"
+    },
+    "embeds": {
+        "footer": "Embed footer"
+    }
+}
