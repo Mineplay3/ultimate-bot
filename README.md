@@ -1,5 +1,20 @@
-# ultimate-bot
-Modular discord bot for your needs
+# Mineplay's Ultimate Bot
+A Modular discord bot for your needs
+
+### Setup
+
+## Step 1
+- Install [Python](https://www.python.org/downloads/)
+- Install [PIP](https://pip.pypa.io/en/stable/installation/#get-pip-py)
+
+## Step 2
+- Run `setup.py` (This will install the required packages)
+
+## Step 3 *Optional*
+- Configure `settings.json`
+
+## Step 4 
+- Run `Start.py` and enjoy
 
 ### Settings
 Go into `settings.json` to configure
@@ -19,3 +34,9 @@ Go into `settings.json` to configure
 `message` This is what will appear with the activity
 
 ## Embed
+
+`footer` This is the message below the embeds *(Leave empty for no message)*
+
+### Add Modules
+
+* *Not supported yet*
