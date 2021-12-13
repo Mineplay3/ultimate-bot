@@ -1,5 +1,6 @@
 {
     "token": "Put discord token, get it in https://discord.dev/",
+    "prefix": "!",
     "status": {
         "enabled": true,
         "type": "online/",

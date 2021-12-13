@@ -21,15 +21,17 @@ A Modular discord bot for your needs
 - Configure `settings.json`
 
 ## Step 4 
-- Run `Start.py` and enjoy
+- Run `start.py` and enjoy
 
 ### Settings
 Go into `settings.json` to configure
 
 *settings are not case-sensitive*
 
-## Token 
-`Token` is your bot's discord token, **this token should never be shared with anyone**
+## Basic Settings 
+`token` is your bot's discord token, **this token should never be shared with anyone**
+
+`prefix` is what the character that the bot will look for and respond
 
 ## Status
 `enabled` Can be set to **true/false**
