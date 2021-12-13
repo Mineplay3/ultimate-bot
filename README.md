@@ -1,8 +1,9 @@
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 ![json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-
 ![GitHub all releases](https://img.shields.io/github/downloads/Mineplay3/ultimate-bot/total?label=Downloads)
+
+Beta Version: 0.1
+Release Version: Doesnt Exist!!! (dont fork nor use this repo yet)
 
 # Mineplay's Ultimate Bot
 A Modular discord bot for your needs
