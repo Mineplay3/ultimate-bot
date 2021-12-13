@@ -3,6 +3,7 @@ Modular discord bot for your needs
 
 ### Settings
 Go into `settings.json` to configure
+
 *settings are not case-sensitive*
 
 ## Token 
@@ -15,6 +16,6 @@ Go into `settings.json` to configure
 
 `activity` Can be set to **playing/listening/competing/watching/streaming**
 
-`message`: This is what will appear with the activity
+`message` This is what will appear with the activity
 
 ## Embed
